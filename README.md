@@ -1,1 +1,1 @@
-End to end full game code
+End to end full tic-tac-toe game code
